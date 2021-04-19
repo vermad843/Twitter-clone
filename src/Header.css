@@ -1,3 +1,18 @@
+
 .header {
-    color : #1DA1F2
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header__left {
+    color : #1DA1F2;
+}
+
+
+.header__mid {
+    border : 1px solid lightgrey;
+    padding : 20px;
+    padding-right: 250px;
+    padding-left: 250px;
 }
