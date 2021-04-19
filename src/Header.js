@@ -1,12 +1,13 @@
 import React from 'react';
 import './Header.css';
+import TwitterIcon from '@material-ui/icons/Twitter';
 
 function Header() {
     return (
         <div className = "header">
-            <h1>I am a header Component</h1> 
+            <TwitterIcon/>
         </div>
     )
 }
 
-export default Header
+export default Header;
