@@ -6,13 +6,36 @@
 }
 
 .header__left {
+    display:  flex;
     color : #1DA1F2;
 }
 
 
 .header__mid {
+    display:  flex;
     border : 1px solid lightgrey;
+    margin-right : 150px;
     padding : 20px;
-    padding-right: 250px;
-    padding-left: 250px;
+    padding-right: 470px;
+    background-color: white;
 }
+
+
+
+
+.header__right {
+    display: flex;
+    align-items: center;
+    width : 20%;
+    border : 1px solid lightgray;
+    border-radius: 999px;
+}
+
+.header__right >input {
+    border  : none;
+    padding: 10px;
+    outline-width: 0;
+    width : 250px;
+}
+
+
