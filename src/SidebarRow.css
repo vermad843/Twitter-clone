@@ -1,0 +1,10 @@
+.sidebarRow {
+    display: flex;
+    align-items: center;
+    padding : 10px 20px;
+}
+
+/* .sidebarRow__icon {
+    display:  flex;
+    color : #1DA1F2;
+} */
