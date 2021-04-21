@@ -24,12 +24,13 @@ function SideBar() {
             <SidebarRow Icon = {PersonOutlineIcon} title = "Profile"/>
             <SidebarRow Icon = {MoreHorizIcon} title = "More"/> 
             <Button 
+               className = "sidebar__button"
                variant="contained"
                color = "primary"
                size = "large"
                >
                Tweet    
-            </Button> 
+            </Button>
         </div>
     )
 }

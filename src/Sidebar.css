@@ -1,3 +1,11 @@
 .sidebar {
     margin-bottom  : -350px;
 }
+
+.sidebar__button {
+    display: flex;
+    align-items: center;
+    padding : 10px 20px;
+    position : relative;
+    left : 70px;
+}
