@@ -6,6 +6,7 @@ import Sidebar from './SideBar';
 function App() {
   return (
     <div className="app">
+       <Sidebar/>
        <Header/>
        <Sidebar/>
     </div>
