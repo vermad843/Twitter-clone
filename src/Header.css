@@ -28,6 +28,14 @@
     left : 50px;
 }
 
+.header__textarea >textarea{
+    position : relative;
+    right : 500px;
+    top : 32px;
+    padding : 50px;
+
+}
+
 
 
 

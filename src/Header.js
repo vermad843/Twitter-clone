@@ -10,6 +10,9 @@ function Header() {
             <div className = "header__mid">
                 <h1>Home</h1>
             </div>
+            <div className = "header__textarea">
+                <textarea></textarea>
+            </div>
         </div>
     )
 }
